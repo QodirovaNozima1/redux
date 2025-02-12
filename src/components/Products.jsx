@@ -70,7 +70,7 @@ const Products = ({ data }) => {
                   <p className="text-[#737373]">10 comments</p>
                 </div>
                 <div>
-                <button className="bg-fuchsia-300 rounded-sm text-white h-[30px] w-[40px]">Buy now</button>
+                <button className="bg-emerald-300 rounded-sm text-white h-[30px] w-[40px]">Buy now</button>
               </div>
               </div>
             </div>

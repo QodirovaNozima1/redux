@@ -21,7 +21,7 @@ const Header = () => {
   const links = ["Каталог", "Доставка", " Условия", "Контакты"]
   const number = ["+ 375 736 463"]
   return (
-    <header id='header' className={`header h-[70px] bg-linear-to-bl from-violet-400 to-fuchsia-300 flex gap-5 p-5 items-center mt-[12px] ${bg}`}>
+    <header id='header' className={`header h-[70px] bg-linear-to-bl from-emerald-300 to-green-200 flex gap-5 p-5 items-center mt-[12px] ${bg}`}>
       <div className='container flex  items-center justify-between'>
         <nav className="navbar  flex items-center justify-between gap-36">
           <div className="navbar__logo">
